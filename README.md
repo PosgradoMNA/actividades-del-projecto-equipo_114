@@ -14,3 +14,6 @@ https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs?select=tracks_
 
 La metodología que se utiliza en este proyecto es Cross-Industry Standard Process for Data Mining (CRISP-DM) conjugado con Agile.
 Las tareas dictadas por la metodología están registradas en la sección de proyectos de éste repositorio en formato Kanban.
+
+Referencias:
+* https://towardsdatascience.com/adapting-project-management-methodologies-to-data-science-a710ac9872ea
